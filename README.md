@@ -9,3 +9,6 @@ Model, Keras’ın Sequential yapısıyla oluşturuluyor. Modelde birden fazla g
 Model eğitilirken, eğitim sürecini optimize eden çeşitli callback'ler kullanılıyor. EarlyStopping ile model, doğrulama kaybı düştüğünde eğitimi erken durdurabiliyor. Ayrıca, ReduceLROnPlateau ile doğrulama kaybına göre öğrenme oranı ayarlanıyor. Eğitim süresi boyunca doğruluk ve kayıp değerleri izleniyor.
 
 Eğitim tamamlandıktan sonra model test verisiyle test ediliyor. Performans ölçümleri arasında doğruluk, sınıflandırma raporu ve karışıklık matrisi yer alıyor. Sonuçlar, modelin test verisinde ne kadar doğru tahmin yaptığını gösteriyor ve karışıklık matrisi ile yanlış sınıflandırmalar görselleştiriliyor.
+
+
+https://www.kaggle.com/code/arifkalayc/fishai
